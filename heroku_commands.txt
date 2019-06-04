@@ -1,0 +1,7 @@
+1. Register Heroku account
+2. Heroku toolbelt
+3. Terminal:
+	heroku login (enter email & pw) 
+	heroku create hlin19 (= app name) 
+4. pip install gunicorn
+4. Create 3 files: requirement.txt, Procfile, runtime.txt 
